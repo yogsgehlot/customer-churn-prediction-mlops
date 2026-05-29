@@ -442,9 +442,25 @@ docker run -p 8000:8000 churn-api
 
 ---
 
-## 👨‍💻 Author
+# Author
 
-Yogesh Gehlot
+Yogesh Gehlot  
+AI/ML Engineer | Backend Developer
+
+## Connect With Me
+
+- GitHub: https://github.com/yogsgehlot
+- LinkedIn: https://linkedin.com/in/yogsgehlot
+- X: https://x.com/yogsgehlot 
+
+---
+
+# License
+
+This project is for educational and portfolio purposes.
+
+---
+
 
 If you found this project useful, consider giving it a ⭐ on GitHub.
 
